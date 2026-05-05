@@ -1,3 +1,3 @@
 # MissionPlanner-Releases
 Mission Planner Rebuild Version
-v1.4.2
+v1.4.3
